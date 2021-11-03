@@ -1,0 +1,55 @@
+table{
+    border: white solid 25px;
+
+    width: 100%;
+   
+    border-collapse: collapse;
+    width: 600px;
+    margin:auto;
+}
+
+tr:nth-child(odd){
+    background-color: rgb(255, 255, 255);
+}
+tr:nth-child(even){
+
+    background-color: rgb(228, 151, 80);
+}
+th{
+
+    height: 30px;
+    border-collapse: collapse;
+}
+td {
+    border-bottom: solid purple;
+    border-right: gray solid;
+    bp
+    text-align: center;
+    height: 50px;
+    width: 19%;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+tr {
+   
+    text-align: center;
+    height: 50px;
+    width: 19%;
+    border-collapse: collapse;
+}
+#day
+{
+   width: 40%;
+   text-align: left;
+}
+#zadnji{
+    background-color: rgb(73, 71, 71);
+    color: white;
+    border-bottom: gray;
+}
+
+#neki {
+    text-align: right;
+   
+}

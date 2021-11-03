@@ -1,0 +1,15 @@
+#josnesto
+{
+    list-style-type: square;
+}
+#nesto
+{
+    list-style-type: circle;
+}
+#zadnje
+{
+    list-style-type: disc;
+}
+div{
+    background-color: blue;
+}

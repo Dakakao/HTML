@@ -1,0 +1,28 @@
+.baza{
+    width: 400px;
+    height: 600px;
+    border: solid 2px;
+    margin-left: 33%;
+    background-color: white;
+
+
+    
+ 
+}
+#tekst{
+    color: purple;
+    text-align: center;
+    padding: 20px;
+    margin-top: -20px;
+
+}
+#slika img{
+border: solid 5px;
+border-color: purple;
+margin-top: 20px;
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    padding: 10px;
+    margin-left: 27%;
+}

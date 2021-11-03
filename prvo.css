@@ -1,0 +1,31 @@
+.baza {
+    height: 900px;
+    width : 300px;
+    background-color: gray;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+#crveno {
+    background-color:  red ;
+    border-radius: 100%;
+}
+#zuto {
+   
+    background-color: yellow ;
+  
+}
+#zeleno {
+    
+    background-color: green ;
+   
+}
+.krug{
+    height: 250px;
+    margin: 10px;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 100%;
+}
+
+
