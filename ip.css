@@ -1,0 +1,102 @@
+.baza{
+    width: 585px;
+    height: 1266px;
+    border: solid 5px black;
+    margin: auto;
+    border-radius: 60px 60px;
+    background-image: url('https://th.bing.com/th/id/R.213ef22bc1413f2064ef633f10bbb8e8?rik=ZYjCEjqmvRvxvA&riu=http%3a%2f%2fwww.100hdwallpapers.com%2fwallpapers%2f2560x1600%2fleopard_hq-widescreen_wallpapers.jpg&ehk=cLZs5Jha2ZO0a%2bHM7Hqqff7pdzLOOy9wOODTMoKHINc%3d&risl=&pid=ImgRaw&r=0');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+    text-align: center;
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+#notch{
+    height: 3.5%;
+    width: 256px;
+    border: solid 5px black;
+    margin: auto;
+    border-radius: 0px 0px 30px 30px;
+    background-color: black;
+    margin-top: -17px;
+
+    
+}
+#vreme{
+    text-shadow: -1px 1px 0 #000,
+                          1px 1px 0 #000,
+                         1px -1px 0 #000,
+                        -1px -1px 0 #000;
+   font-size: 90px;
+margin-top: 90px;
+   margin-bottom: -50px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#datum{
+    text-shadow: -1px 1px 0 #000,
+                          1px 1px 0 #000,
+                         1px -1px 0 #000,
+                        -1px -1px 0 #000;
+   
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.linija
+{  height: 3px;
+    width: 256px;   
+    background-color: white;
+    border: solid;
+    margin:auto;
+    margin
+    border-radius: 50%;
+    margin-top:950px;
+    
+   
+}
+
+.kruzic1{
+
+    height: 60px;
+    width: 60px;
+    border-radius: 100%;
+    background-color: gray;
+    margin-right:auto;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+   
+    
+}
+.kruzic2{
+    margin-left:auto;
+    height: 60px;
+    width: 60px;
+    border-radius: 100%;
+    background-color: gray;
+    font-size: 25px;
+    text-align: center;
+}
+li{
+    text-shadow: -1px 1px 0 #000,
+                          1px 1px 0 #000,
+                         1px -1px 0 #000,
+                        -1px -1px 0 #000;
+    float: left;
+    margin: 5px;
+    margin-top: -1px;
+    list-style-type: none;
+
+
+}
+.ikonice
+{
+    
+    margin-left: 380px;
+}
+.nvm
+{
+    margin-top: 850px;
+}
