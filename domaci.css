@@ -1,0 +1,159 @@
+
+.main{ 
+    
+    margin: auto;
+    height: 700px;
+    width: 500px;
+    background-size: cover;
+ background-repeat: no-repeat;
+ background-position: center;
+ background-image: url('https://th.bing.com/th/id/R.0b6e56d1560e12d7cb2a2e7b434c03d5?rik=xLS5xUjMUXYD3g&riu=http%3a%2f%2fwww.mjworld.net%2fwp-content%2fuploads%2fdangerous-large.jpg&ehk=kPJzY3P%2fzA4UqE7QSx%2fmNrfqT8UD9w7O9zr0iHW0BcY%3d&risl=&pid=ImgRaw&r=0');
+ text-shadow: 4px 4px 8px #000000;
+ color: white;
+ border: solid 25px gold;
+}
+h1{
+ color: white;
+ padding-top: 30px;
+ padding-left: 30px;
+ font-size: 45px;
+}
+h2{
+    color: white;
+    padding-left: 30px ;
+    margin-top: -25px;
+
+}
+form{
+     
+  padding-top: 50px;
+    text-align: center;
+}
+select
+{
+    width: 300px;
+    height: 25px;
+    
+}
+input
+{   height: 25px;
+    width: 300px;
+   border-left: none;
+   border-right: none;
+   border-top: none;
+    border-bottom: solid 5px black;
+  background-color: transparent;
+ 
+}
+textarea{
+    width: 300px;
+    border-radius: 5%;
+    margin: auto;
+    border: none;
+       border-bottom: solid 5px black;
+  background-color: transparent;
+}
+textarea { 
+    vertical-align: top; }
+button{
+    background-color: black;
+    color: white;
+    width: 450px;
+    height: 40px;
+    margin-top: 85px;
+}
+.header{ 
+   padding-top: 50px;
+    margin: auto;
+    height: 330px;
+    width: 1000px;
+    background-image: url('https://i.ytimg.com/vi/2tqW-JkMIzk/maxresdefault.jpg') ;
+    background-clip: content-box;
+  background-position: bottom;
+
+}
+.space{
+    margin-left: 125px;
+    background-image: url('https://i.ytimg.com/vi/2tqW-JkMIzk/maxresdefault.jpg');
+    height: 390px;
+    width: 1400px;
+    margin-top: 70px;
+
+
+}
+.theend{ width: 1000px;
+    height: 150px;
+    margin: auto;
+    border-top: gold solid 5px ;
+    margin-top: 20px;
+}
+#rights{ 
+
+    font-size: 20px;
+    text-align: center;
+   
+
+}
+
+
+li{
+    color:blanchedalmond;
+   float:left  ;
+   margin: 30px;
+   list-style-type: none;
+   margin-top: 25px;
+  
+}
+.baza{
+    background-color: rgb(8, 0, 24);
+     height: 70px;
+     border-bottom: solid 2px yellow;
+   
+}
+body
+{
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.mirza
+
+{ 
+    margin: auto;
+    text-align: center;
+    height: 120px;
+    width: 300px;
+    margin-top: 300px;
+    color: white;
+
+}
+button{
+    width: 100px;
+    height: 60px;
+    border-radius: 10%;
+    background-color: red;
+}
+button:hover{
+    width: 100px;
+    height: 60px;
+    border-radius: 10%;
+    background-color: blue;
+}
+li:hover{
+    color:purple;
+   float:left  ;
+   margin: 30px;
+   list-style-type: none;
+   margin-top: 25px;
+  
+}
+a{
+    text-decoration: none;
+    color: blanchedalmond;
+}
+a:hover{
+    text-decoration: none;
+    color: purple;
+}
+
+
+
